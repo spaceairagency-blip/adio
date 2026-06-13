@@ -3,7 +3,7 @@
    ↑ Bump APP_VERSION to trigger an update notification banner
 ============================================================ */
 
-const APP_VERSION = '1.0.0';
+const APP_VERSION = '1.1.0';
 const CACHE_NAME  = `ayah-audio-v${APP_VERSION}`;
 
 /* Assets to pre-cache on install */
